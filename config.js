@@ -51,18 +51,18 @@ global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '51994299226' //Nomor Bot mu
+global.nomorown = '51994299226' //Nomormu
+global.namebot = '< ꜱᴇᴛʜ ʙᴏᴛ >' //Nama bot mu
+global.nameown = 'ᴅᴇᴄᴋᴀʀᴅ  ✓' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6288215689772'], //Owner1
-  ['6285335877178'], //Owner2
-  ['6288215689772'], //Owner3
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['51994299226'], //Owner1
+  ['51977505158'], //Owner2
+  ['51936478470'], //Owner3
+  ['51902541931', 'FANGZ ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,13 +111,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 Fangz BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '⫹⫺ Fangz 𝗕𝗢𝗧'
-global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: FANGZ BOT' //Titlenya
-global.author = '                ✧ Fangz BOT⁩ ✧' //Wm author
+global.wm = 'ᴅᴇᴄᴋᴀʀᴅ  ✓' //Wm
+global.wm2 = 'ᴅᴇᴄᴋᴀʀᴅ  ✓' //Name Wm
+global.wm3 = 'ᴅᴇᴄᴋᴀʀᴅ  ✓'
+global.botdate = ``
+global.bottime = ``
+global.titlebot = 'ᴅᴇᴄᴋᴀʀᴅ  ✓' //Titlenya
+global.author = '+51 994 299 226' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
@@ -170,8 +170,8 @@ global.htjava = '𖥸'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = '.'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickpack = 'ᴅᴇᴄᴋᴀʀᴅ  ✓'
+global.stickauth = `+51 994 299 226`
 
 global.multiplier = 38 // The higher, The harder levelup
 
